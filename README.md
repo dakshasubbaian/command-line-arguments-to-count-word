@@ -27,7 +27,7 @@ End the program.
 ```
 #Program to find the command-line-arguments-to-count-word
 #Developed by: Daksha Subbaian
-#RegisterNumber: 23003584
+#RegisterNumber: 212223230036
 
 import sys
 f=open(sys.argv[1],'r')
@@ -37,7 +37,7 @@ print("Number of words:",word)
 ```
 
 ### OUTPUT:
-![output](/output5b.png)
+![image](https://github.com/user-attachments/assets/4fe497a6-f88d-46bb-8d00-2b16ed4f52f0)
 ![output](/python.png)
 
 
